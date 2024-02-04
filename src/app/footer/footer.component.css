@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    justify-content: flex-end; 
+    background-color: #c3bbbb; 
+    padding: 12px;
+    position: fixed;
+    bottom: 0;
+    width: 95%;
+    }
+    
+    .mat-icon {
+    font-size: 21px; 
+    color: #090909; 
+    }
+    

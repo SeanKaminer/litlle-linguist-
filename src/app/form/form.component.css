@@ -1,0 +1,38 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 150px;
+    margin: auto;
+    padding: 22px;
+    margin-left: 0%;
+}
+.form-row {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+button {
+    margin-top: 18px;
+}
+.save {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  
+}
+.addNewWord{
+    padding-left: 550px;
+    font-size: 22px;
+}
+div {
+    display: flex;
+    align-items: center;
+  }
+  button[color="primary"] {
+    margin-left: 10px; 
+  }
